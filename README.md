@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanzla-d-s&label=Profile%20views&color=0e75b6&style=flat" alt="hanzla-d-s" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanzla-d-s" alt="hanzla-d-s" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">/></a> </p>
 
 - I’m currently learning **Deep Learning**  
 - I’m looking to collaborate on **NLP Projects**  
@@ -11,7 +11,6 @@
 - All of my projects are available at [LinkedIn](https://www.linkedin.com/in/muhammad-hanzla-data-science/)  
 - Ask me about **Data Science**  
 - Reach me at **hanzlainam204@gmail.com**  
-- Fun fact: I can analyze data all day, but I still can't predict my luck in video games!  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
