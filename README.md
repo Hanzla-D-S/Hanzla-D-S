@@ -21,8 +21,3 @@ Evaluation
 and Transformers
 - **Data Analysis And Visualization:** Pandas, Numpy, Plotly, Power BI (beginner)
 - **IDE:** Visual Studio, Google Colab, Replit, Jupyter Notebook.
- 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanzla-d-s&show_icons=true&locale=en&layout=compact" alt="hanzla-d-s" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanzla-d-s&show_icons=true&locale=en" alt="hanzla-d-s" /></p>
