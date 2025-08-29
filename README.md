@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanzla-d-s&label=Profile%20views&color=0e75b6&style=flat" alt="hanzla-d-s" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">/></a> </p>
-
 - I’m currently learning **Deep Learning**  
 - I’m looking to collaborate on **NLP Projects**  
 - I’m looking for help with **Data Science**  
